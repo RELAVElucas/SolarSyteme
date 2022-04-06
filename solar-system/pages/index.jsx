@@ -2,7 +2,6 @@ import * as THREE from "three";
 import SceneInit from "./lib/SceneInit";
 import Planet from "./lib/Planet";
 import Rotation from "./lib/Rotation";
-import { Stars } from "./lib/Stars";
 import React, { useEffect } from 'react'
 export default function Home() {
   let gui;
