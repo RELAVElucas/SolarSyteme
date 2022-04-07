@@ -1,6 +1,6 @@
 # SolarSyteme
 
-Lancer le projet:
-clone 
-cd solar-system
-npm run dev
+Lancer le projet:/n
+clone /n
+cd solar-system /n
+npm run dev /n
